@@ -1,0 +1,36 @@
+ 1  cd
+    2  cd documents
+    3  mkdir CRUZMATTHEW
+    4  touch text.txt
+    5  cd CRUZMATTHEW
+    6  touch text.txt
+    7  rm text.txt
+    8  touch readme.md
+    9  start readme.md
+   10  git init
+   11  git status
+   12  git add .
+   13  git commit -m "matthew"
+   14  git config --global user.email "mattew.cruz@olivarezcollege.edu.ph"
+   15  git config --global user.name matthewcruz-debug"
+git config --global user.email "mattew.cruz@olivarezcollege.edu.ph
+   16  git config --global user.name "matthewcruz-debug"
+   17  git config --global user.name "mattewcruz-debug"
+   18  git config --global user.email "mattew.cruz@olivarezcollege.edu.ph"
+   19  git add .
+   20  git commit -m "matthew"
+   21  git branch -M main
+   22  git remote add origin
+   23  git remote add origin https://github.com/mattewcruz-debug/CRUZMATTHEW.git
+   24  git push -u origin main
+   25  start readme.md
+   26  git add .
+   27  git status
+   28  git commit -m "second message"
+   29  git status
+   30  git push
+   31  cd ..
+   32  git clone https://github.com/mattewcruz-debug/CRUZMATTHEW.git
+   33  cd CRUZMATTHEW
+   34  ls
+   35  history
